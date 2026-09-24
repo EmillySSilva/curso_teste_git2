@@ -1,0 +1,49 @@
+commit e4d74280fa7c4904de53e99e119792dffcfdb856
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 17:16:07 2026 -0300
+
+     renomeardo arquivos
+
+commit 4db902e0160c8beb8cd5ce6cbdb590095f9b8abd
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 17:12:06 2026 -0300
+
+     retornando o primeiro_arquivo
+
+commit b99871e4c877356a090bb5e1c85b8849be4707ce
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 16:46:08 2026 -0300
+
+    adicionando o log
+
+commit 8bc643ecc31614d0467e07880990c441d5cd5f2d
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 16:36:57 2026 -0300
+
+    removento o primeiro_arquivo
+
+commit d695247003c9d581070da44cf9a502a9808732c9
+Author: Emilly Silva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 16:34:24 2026 -0300
+
+    Create arquivo_criado_github
+    
+    arquivo criado no github
+
+commit c36049da59c9192e75fda1317348f3b5d54828b2
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 16:31:41 2026 -0300
+
+    adicionando varios arquivos  commit
+
+commit 8bae872f3087609d34a1f60fbb94cd0755e7e19b
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 16:29:17 2026 -0300
+
+    segundo  commit
+
+commit 4a0346017ae2f04648c50da75ef32cab1a32cfb5
+Author: EmillySDaSilva <69834783+EmillySSilva@users.noreply.github.com>
+Date:   Thu Sep 24 16:18:02 2026 -0300
+
+    segundo  commit
